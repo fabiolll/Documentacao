@@ -1,0 +1,52 @@
+Empresa:
+    CNPJ
+    Nome Fantasia
+    Nome Real
+    Contato
+    Senha
+
+Unidade:
+    Endereco
+    Contato
+    Hora de abertura
+    Hora de fechamento
+
+Cliente:
+    Nome
+    Email
+    Senha
+    Contato
+
+Cartao de credito:
+    Numero
+    Validade
+    Nome Titular
+    Codigo de seguranca
+
+Produto:
+    Nome
+    Volume
+    Categoria
+    Preco unitario
+    Foto
+
+Categoria:
+    Descricao
+
+Estoque:
+    Filial
+    Produto
+    Quantidade
+
+Compra:
+    Cliente
+    Cartao
+    Unidade
+    Data
+    Hora
+    Produtos
+
+Avaliacao:
+    Unidade
+    Cliente
+    Avaliacao(voto (quantidade de estrelas))

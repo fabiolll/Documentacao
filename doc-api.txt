@@ -1,0 +1,30 @@
+Servicos oferecidos pela API:
+
+POST		/users
+DELETE	        /users
+PUT/PATCH	/users
+
+GET		/empresa
+POST		/empresa
+DELETE	        /empresa
+PUT/PATCH	/empresa
+
+GET		/empresa/filial
+POST		/empresa/filial
+DELETE	        /empresa/filial
+PUT/PATCH	/empresa/filial
+
+GET		/empresa/filial/produto
+POST		/empresa/filial/produto
+DELETE	        /empresa/filial/produto
+PUT/PATCH	/empresa/filial/produto
+
+GET 		/users/carrinho
+POST		/users/carrinho
+DELETE	        /users/carrinho
+PUT/PATCH	/users/carrinho
+
+GET		/empresa/filial/produto/categoria
+POST		/empresa/filial/produto/categoria
+DELETE	        /empresa/filial/produto/categoria
+PUT/PATCH	/empresa/filial/produto/categoria
