@@ -1,0 +1,20 @@
+Requisitos do aplicativo:
+
+RF: Requisito Funcional
+RNF: Requisito nao funcional
+
+[RF] O Cliente soh pode realizar uma compra caso tenha um cadastro;
+[RF] Uma empresa deve cadastrar suas unidades/filiais e seus devidos estoques;
+[RF] Todo produto deve pertencer a uma categoria e possuir seu preco unitario;
+[RF] A aplicacao deve disponibilizar uma avaliacao do servico oferecido por uma unidade;
+[RF] O cadastro do cartao de credito depende da aprovacao do cliente;
+[RF] O cartao de credito deve estar dentro do periodo de validade para realizacao de uma compra;
+[RF] O cliente deve fornecer um contato valido;
+[RF] O cliente deve fornecer um CPF valido;
+[RF] 
+
+
+[RNF] O tempo de compra deve ser menor ou igual a 20 minutos;
+[RNF] O servidor devera ser feito com o framework laravel e angular js;
+[RNF] O aplicativo devera ser feito com um framework de producao hibrido (todas as plataformas em um codigo so);
+[RNF] O banco de dados sera feito com Mysql;
